@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "dfmetrics"
+  site-url: "https://Santiago-R.github.io/dfmetrics"
+  description: "Multivariate metrics from dataframe"
+  repo-branch: main
+  repo-url: "https://github.com/Santiago-R/dfmetrics"
