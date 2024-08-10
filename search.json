@@ -1,0 +1,62 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "⚠️ WORK IN PROGRESS ⚠️",
+    "section": "",
+    "text": "Multivariate metrics via dataframe segmentation\n\n\n\npip install dfmetrics\n\n\n\nEasy:\n\nimport dfmetrics\n\n2",
+    "crumbs": [
+      "⚠️ WORK IN PROGRESS ⚠️"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "⚠️ WORK IN PROGRESS ⚠️",
+    "section": "",
+    "text": "pip install dfmetrics",
+    "crumbs": [
+      "⚠️ WORK IN PROGRESS ⚠️"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "⚠️ WORK IN PROGRESS ⚠️",
+    "section": "",
+    "text": "Easy:\n\nimport dfmetrics\n\n2",
+    "crumbs": [
+      "⚠️ WORK IN PROGRESS ⚠️"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\n\n\n\n branch (df, fields)\n\ndf branching as specified by fields\n\nsource\n\n\n\n\n keycheck (col, ks, df)",
+    "crumbs": [
+      "core"
+    ]
+  },
+  {
+    "objectID": "core.html#setup",
+    "href": "core.html#setup",
+    "title": "core",
+    "section": "",
+    "text": "source\n\n\n\n\n branch (df, fields)\n\ndf branching as specified by fields\n\nsource\n\n\n\n\n keycheck (col, ks, df)",
+    "crumbs": [
+      "core"
+    ]
+  },
+  {
+    "objectID": "core.html#nbdev-export",
+    "href": "core.html#nbdev-export",
+    "title": "core",
+    "section": "nbdev export",
+    "text": "nbdev export",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
